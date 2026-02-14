@@ -46,7 +46,7 @@ JDBC: Secure database connectivity using the sqlite-jdbc driver.
 
 ⚙️ Steps to Run the Program
 
-1.Clone the Repository: git clone 
+1.Clone the Repository: git clone https://github.com/Arjeuw/Gym-Management-System.git
 
 2.Open in IntelliJ IDEA: Select the project folder.
 
