@@ -45,10 +45,15 @@ Multithreading: Uses SwingUtilities.invokeLater for stable and thread-safe GUI e
 JDBC: Secure database connectivity using the sqlite-jdbc driver.
 
 ⚙️ Steps to Run the Program
+
 1.Clone the Repository: git clone 
+
 2.Open in IntelliJ IDEA: Select the project folder.
+
 3.Add Library: * Go to File > Project Structure > Libraries.
+
 4.Add the sqlite-jdbc-3.51.2.0.jar file included in this repository.
+
 5.Run: Execute the Main.java file.
 
 📸 Screenshots
