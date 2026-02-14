@@ -71,7 +71,3 @@ The Gym Membership Management System successfully demonstrates the integration o
 Modular Architecture: Successfully separated the application logic into a Model-View-Controller (MVC) inspired structure using DatabaseHandler, GymGUI, and Main classes.
 Data Persistence: Leveraged JDBC and SQLite to ensure member records are stored permanently and can be retrieved, updated, or deleted efficiently.
 User Experience: Created a user-friendly interface in Java Swing that provides meaningful interaction through forms, buttons, and real-time data tables.
-
-Technical Compliance: Adhered to all CO5 criteria, including the implementation of exception handling for data safety and the use of version control via GitHub for collaborative hosting.
-
-This project serves as a comprehensive example of how Java can be used to solve real-world administrative problems through secure and scalable software design.
