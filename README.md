@@ -1,9 +1,7 @@
 Gym Membership Management System 🏋️‍♂️
 
 Team Members
-
 Member 1: Arjun A P
-
 Member 2: cephin Jeason
 
 
@@ -18,45 +16,31 @@ Objective: To implement a robust system that handles CRUD (Create, Read, Update,
 🚀 Features
 Member Registration: Add new members with details like name, phone, and specific Indian Rupee (₹) plans.
 
-
 Database Persistence: Integrated SQLite via JDBC to ensure data remains saved even after closing the app.
 
 Search Functionality: Instantly filter and find members by their names.
 
 Full CRUD Support: Dedicated buttons to Update member details or Delete expired records.
 
-
 Modern GUI: Clean, professional interface built with Java Swing using the Nimbus Look & Feel.
 
 🛠️ Technologies Used
 
 Language: Java 
-
-
 GUI Framework: Java Swing 
-
-
 Database: SQLite (JDBC) 
-
-
 IDE: IntelliJ IDEA 
  
-
 📖 Core Java Concepts Applied (CO5)
 This project serves as a demonstration of Course Outcome 5 (CO5):
 
-
 OOP Principles: Utilizes Classes and Encapsulation for logical data structuring.
-
 
 Inheritance: The GUI components extend JFrame to leverage standard Java windowing.
 
-
 Exception Handling: Implemented try-catch blocks for input validation and database error management.
 
-
 Multithreading: Uses SwingUtilities.invokeLater for stable and thread-safe GUI execution.
-
 
 JDBC: Secure database connectivity using the sqlite-jdbc driver.
 
