@@ -2,10 +2,10 @@ Gym Membership Management System 🏋️‍♂️
 Team Members
 Member 1: Arjun A P
 
-Member 2: [Enter Partner Name]
+Member 2: cephin Jeason
 
 
-Course: 244SECUBC201 - Object Oriented Programming Using Java 
+Course:  Object Oriented Programming Using Java 
 
 📌 Problem Statement & Objective
 Gym owners often struggle with manual record-keeping, leading to errors in payment tracking and member management. This project provides a Mini Real-World Java Application designed to automate the registration, storage, and management of gym memberships through a user-friendly interface.
@@ -38,9 +38,7 @@ Database: SQLite (JDBC)
 
 
 IDE: IntelliJ IDEA 
-
-
-Version Control: GitHub 
+ 
 
 📖 Core Java Concepts Applied (CO5)
 This project serves as a demonstration of Course Outcome 5 (CO5):
@@ -61,7 +59,7 @@ Multithreading: Uses SwingUtilities.invokeLater for stable and thread-safe GUI e
 JDBC: Secure database connectivity using the sqlite-jdbc driver.
 
 ⚙️ Steps to Run the Program
-Clone the Repository: git clone https://github.com/YOUR_USERNAME/GymSystem.git
+Clone the Repository: git clone 
 
 Open in IntelliJ IDEA: Select the project folder.
 
