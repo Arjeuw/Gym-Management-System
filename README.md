@@ -1,5 +1,7 @@
 Gym Membership Management System 🏋️‍♂️
+
 Team Members
+
 Member 1: Arjun A P
 
 Member 2: cephin Jeason
