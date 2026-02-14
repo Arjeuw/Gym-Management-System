@@ -45,15 +45,11 @@ Multithreading: Uses SwingUtilities.invokeLater for stable and thread-safe GUI e
 JDBC: Secure database connectivity using the sqlite-jdbc driver.
 
 ⚙️ Steps to Run the Program
-Clone the Repository: git clone 
-
-Open in IntelliJ IDEA: Select the project folder.
-
-Add Library: * Go to File > Project Structure > Libraries.
-
-Add the sqlite-jdbc-3.51.2.0.jar file included in this repository.
-
-Run: Execute the Main.java file.
+1.Clone the Repository: git clone 
+2.Open in IntelliJ IDEA: Select the project folder.
+3.Add Library: * Go to File > Project Structure > Libraries.
+4.Add the sqlite-jdbc-3.51.2.0.jar file included in this repository.
+5.Run: Execute the Main.java file.
 
 📸 Screenshots
 The project includes a dedicated screenshots folder as required.
@@ -62,3 +58,15 @@ The project includes a dedicated screenshots folder as required.
 ![img3](img3.png)
 ![img4](img4.png)
 ![img5](img5.png)
+
+
+Conclusion
+The Gym Membership Management System successfully demonstrates the integration of core Object-Oriented Programming principles with a functional Graphical User Interface and backend database. By developing this application, we have achieved the following:
+
+Modular Architecture: Successfully separated the application logic into a Model-View-Controller (MVC) inspired structure using DatabaseHandler, GymGUI, and Main classes.
+Data Persistence: Leveraged JDBC and SQLite to ensure member records are stored permanently and can be retrieved, updated, or deleted efficiently.
+User Experience: Created a user-friendly interface in Java Swing that provides meaningful interaction through forms, buttons, and real-time data tables.
+
+Technical Compliance: Adhered to all CO5 criteria, including the implementation of exception handling for data safety and the use of version control via GitHub for collaborative hosting.
+
+This project serves as a comprehensive example of how Java can be used to solve real-world administrative problems through secure and scalable software design.
