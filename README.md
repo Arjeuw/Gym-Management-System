@@ -73,4 +73,4 @@ Run: Execute the Main.java file.
 
 📸 Screenshots
 The project includes a dedicated screenshots folder as required.
-![img1](https://github.com/Arjeuw/Gym-Management-System/blob/1a8847230e736f1517cf61ecfd37329fda2f166a/Screenshot%202026-02-14%20120147.png])
+![img1](https://github.com/Arjeuw/Gym-Management-System/blob/1a8847230e736f1517cf61ecfd37329fda2f166a/Screenshot%202026-02-14%20120147.png)
